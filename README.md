@@ -1,4 +1,5 @@
-
+### Hello, this is Yu Jin HONG 👋
+___
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -30,6 +31,7 @@
 </div>
 	<br>
 </div>
+
 <div align=center>
 <br>
 <h3>🏆 Baekjoon solved rank 🏆</h3>
