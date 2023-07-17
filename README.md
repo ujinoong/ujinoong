@@ -1,4 +1,4 @@
-### Hi there 👋
+### ujinoong's github. 🤓
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
